@@ -1,5 +1,5 @@
 ---
-title: "Something"
+title: "Else"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
