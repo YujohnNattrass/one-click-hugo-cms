@@ -1,5 +1,5 @@
 ---
-title: My Coffee
+title: Every Coffee
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
