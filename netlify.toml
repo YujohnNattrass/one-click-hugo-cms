@@ -3,8 +3,7 @@
   NPM_VERSION = "6.4.1"
 
 [build]
-  command = "cd .. ; mv repo repo2 ; ln / -s repo ; find /opt/build -name '*#*' | xargs rm -rf"
-  functions = "netlify/functions"
+  command = "yarn build"
   publish = "dist"
 
 [context.deploy-preview]
